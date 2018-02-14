@@ -1,0 +1,752 @@
+Aal
+Absinth (45% Vol.)
+Appenzeller
+Auster
+Austernpilze
+Barsch
+Bergkäse 50% i.Tr.
+Bierschinken
+Blauschimmelkäse
+Blutwurst
+Bockwurst
+Bratwurst
+Brie
+Butter
+Butterkäse
+Butterpilze
+Gheebutter
+Cabanossi
+Camembert
+Cheddar Käse
+Chicken Wings
+Cola Zero
+Corned Beef
+Dorade
+Edamer Käse
+Eigelb
+Eisbein roh
+Emmentaler Käse
+Ente
+Entenbrust
+Entenleber
+Erdnussöl
+Essig
+Essig Öl Dressing
+Feta Käse
+Fleischkäse
+Fleischwurst
+Flusskrebs
+Forelle
+Forelle geräuchert
+Früchtetee
+Gans
+Gänsebrust
+Gänsekeule
+Gänseleberpastete
+Gänseschmalz
+Geflügelfleischwurst
+Gin (40% Vol.)
+Gorgonzola
+Gouda Käse
+Grappa (40% Vol.)
+Guarkernmehl
+Hackfleisch gemischt
+Hagebuttentee
+Hähnchen
+Hähnchen gegrillt
+Hähnchenleber
+Hähnchenschenkel
+Halbfettmargarine
+Harzer Käse
+Hase
+Heilbutt
+Heringsfilet
+Hirsch
+Hühnchenbrust
+Hummer
+Jagdwurst
+Jakobsmuschel
+Kabeljau / Dorsch
+Kaffee schwarz
+Kakaobutter
+Kalbsbries
+Kalbsfleisch
+Kalbsrücken
+Kaninchen
+Karpfen
+Kasseler
+Kokosfett
+Kokosöl
+Konjacmehl
+Konjacnudeln
+Krabben
+Kräuterbutter
+Kräutertee
+Kürbiskernöl
+Lachs (Zucht)
+Lachsschinken
+Lammfilet
+Lammfleisch
+Lammkeule
+Lammkotelett
+Lammrücken
+Languste
+Leberwurst
+Leinöl
+Leinsamen
+Limburger Käse
+Maasdamer Käse
+Makrele
+Margarine
+Matjes
+Mayonnaise
+Miesmuscheln
+Mineralwasser
+Morcheln
+Mortadella
+Mozzarella Käse
+Nackensteak Schwein
+Natron
+Obstbrand/Obstler (45%)
+Olivenöl
+Ouzo (38% Vol.)
+Pangasius
+Parmaschinken fettarm
+Parmesan Käse
+Pfefferbeißer
+Pfefferminztee
+Pferdefleisch
+Pfifferlinge
+Pflanzenöl
+Putenbrust
+Putenfleisch
+Putenleber
+Putenschnitzel
+Rapsöl
+Räucherlachs
+Red Bull sugarfree
+Rehkeule
+Rehrücken
+Remoulade
+Rinderbraten
+Rinderfilet
+Rindergulasch
+Rinderhackfleisch
+Rinderleber
+Rindersteak
+Rindertalg
+Rindertatar
+Rinderzunge
+Rindswurst
+Rippchen
+Roastbeef
+Romadur Käse
+Roquefort Käse
+Rotbarsch
+Rum (37% Vol.)
+Rum (65% Vol.)
+Rumpsteak
+Salami
+Salz
+Sardinen
+Schafskäse
+Schellfisch
+Schinken roh geräuchert
+Schinkenwurst
+Scholle
+Schweinebauch
+Schweinebraten
+Schweinefilet
+Schweinegulasch
+Schweinehackfleisch
+Schweinehaxe
+Schweinekotelett
+Schweineleber
+Schweineschmalz
+Schweineschnitzel, roh
+Schweinezunge
+Seehecht
+Seelachs
+Seeteufel
+Seezunge
+Sesamöl
+Sonnenblumenöl
+Speck
+Stevia
+Stroh 80
+Suppenfleisch Rind
+Suppenhuhn
+Tee schwarz
+Teewurst
+Thunfisch
+Tintenfisch
+Traubenkernöl
+Trinkwasser
+Walnussöl
+Weinbrand/Cognac (40%)
+Weingeist/Sprit (95%)
+Weißwurst
+Weizenkeimöl
+Weizenkorn
+Welsfilet
+Whey natur
+Whisky (40% Vol.)
+Wildente
+Wildlachs
+Wildschwein
+Wodka (40% Vol.)
+Zander
+Ziegenkäse
+Zwiebelmettwurst
+Grüner tee
+Kaffee mit Milch
+Mandelmilch ungesüßt
+Milchkaffee
+Wiener Würstchen
+Aloe Vera Saft
+Omelett
+Cola light
+Eisbergsalat
+Limonade light
+Champignons
+Chinakohl
+Feldsalat
+Sauerkraut
+Sauce Hollandaise
+Apfelessig
+Bambussprossen
+Ei
+Eiweiss / Eiklar
+Fleischbrühe
+Gemüsebrühe
+Johannisbrotkernmehl
+Kochschinken
+Kopfsalat
+Lyoner
+Mangold
+Mettenden
+Ofenkäse
+Rhabarber
+Ricotta
+Rollmops
+Rührei
+Spiegelei
+Steinpilze
+Tilsiter Käse
+Frischkäse körnig
+Garnelen
+Geflügelwurst
+Pak Choi
+Bacon
+Espresso
+Schwarzwurzel
+Rucola
+Schnittlauch
+Afa Alge frisch
+Avocado
+Ayran
+Blumenkohl
+Chicorée
+Diätbier
+Flohsamenschalen
+Gurke
+Leberkäse
+Prosecco
+Radieschen
+Schalotten
+Schlagsahne
+Sekt, trocken
+Spargel
+Spinat
+Stangensellerie
+Staudensellerie
+Tofu
+Weinschorle
+Weißweinschorle
+Wirsing
+Zucchini
+Radicchio
+Rettich
+Bärlauch
+Knollensellerie
+Zitronensaft
+Kakaofasern
+Latte Macchiato
+Grünkohl
+Fenchel
+Paprika, grün
+Spitzkohl
+Artischocke
+Brokkoli
+Aubergine
+Bier
+Cappuccino
+Frischkäse fettreduziert
+Kalbsleber
+Kräuterquark, 40%
+Mandelmilch gesüßt
+Mohn
+Oliven, grün
+Porree / Lauch
+Quark, 20%
+Reismilch ungesüßt
+Roséwein
+Rotwein
+Zitrone
+Haselnussmilch
+Frischkäse, Doppelrahm
+Hüttenkäse
+Romanasalat
+Endiviensalat
+Acerola
+Cherrytomaten
+Hühnersuppe
+Kaffee komplett
+Kefir
+Ziegenfrischkäse
+Hühnerfrikassee
+Karambole
+Tomatensaft
+Acai
+Apfelwein
+Creme fraiche 15%
+Fleischsalat
+Kaffeesahne 10%
+Kaffeesahne 4%
+Kaffeesahne 7,5%
+Kaviar
+Kohlrabi
+Kölsch
+Kürbiskerne
+Mascarpone
+Quark, 40%
+Quark, Magerquark 0,5%
+Blaukraut
+Sauerrahm
+Schmand
+Sekt, halbtrocken
+Skyr 0.2%
+Spinat mit Rahm
+Tomate
+Tomaten, passiert
+Weißwein
+Buttermilch
+Paranüsse
+griechischer Joghurt 10%
+Molke
+Rosenkohl
+Basilikum Pesto
+Möhren / Karotten
+Rote Zwiebeln
+Frühlingszwiebel
+Oliven, schwarz
+Sojasauce
+Bier, alkoholfrei
+Brennnessel
+Brombeeren
+Champagner
+Chia
+Cranberry
+Creme fraiche 30%
+Eiskaffee
+Eiweißpulver
+Frikadelle
+Grüne Bohnen
+Himbeeren
+Joghurt, 1,5%
+Joghurt, 3.5%
+Kapern, Glas
+Karottensaft
+Kohlrübe
+Kresse
+Kürbiskernmehl
+Mandeln
+Mandelmus
+Milch 0,3%
+Milch 1,5%
+Milch 3,5%
+Paprika, gelb
+Pekanüsse
+Preiselbeeren
+Radler
+Romanesco
+Schmelzkäse
+Weißbier Weizenbier
+Weißkohl
+Gluten, Weizenkleber
+Sanddorn
+Kürbis Hokkaido
+Altbier
+Heiße Schokolade
+Johannisbeeren
+Petersilienwurzel
+Haselnüsse
+Joghurt, 0,1%
+Bratensauce
+Cidre
+Diesel
+Gewürzgurken
+Götterspeise gekocht
+Grapefruit
+Guave
+Hafermilch
+Heidelbeeren
+Holundersaft
+Kokosmilch
+Leinsamenmehl teilentölt
+Macadamia
+Mandelmehl
+Pinienkerne
+Sauce Bolognese
+Senf
+Sojamilch
+Steckrüben
+Wassermelone
+Zwiebel
+Paprika, rot
+Apfelschorle
+Erdbeeren
+Erdnüsse
+Surimi
+Tabasco
+Tomatenmark
+Tomatensuppe
+Tomatensauce
+Peperoni
+Holunder
+Joghurtdressing
+Kartoffelfasern
+Kiwi
+Kokosnuss
+Papaya
+Stachelbeeren
+Trüffel
+Limette
+Rote Bete
+Aprikose
+Chilischote
+Eiweißshake mit Milch
+Pfirsich
+Quitte
+Sauerkirschen
+Sesam
+Zuckerschoten
+Sprite
+Rinderroulade
+Brathering
+Clementine
+Eistee
+Federweißer
+Fruchtsaft
+Grapefruitsaft
+Kakao, stark entölt
+Mandarine
+Obstsalat
+Orange
+Orangensaft
+Pistazien
+Pomelo
+Spezi Mezzo Mix
+Süßlupinenmehl
+Tamarillo
+Sojabohne
+Ajvar
+Malzbier
+Apfel
+Apfelsaft
+Birne
+Grüne Erbsen
+Haselnussmus
+Honigmelone
+Kakaobohnen
+Limonade
+Schweineschnitzel paniert und gebra
+Red Bull
+Sonnenblumenkerne
+Ananas
+Cordon bleu v. Schwein
+Dicke Bohnen
+Chia Brot
+Cola
+Erdnussbutter
+Erdnussmus
+Feige
+Hanfsamen
+Jägermeister Kräuterlikör
+Kartoffelpüree
+Kartoffelsalat
+Krautsalat
+Meerrettich
+Multivitaminsaft
+Nektarine
+Pastinaken
+Pflaumen
+Porridge
+Seitan
+Weizenkleie
+Walnüsse
+Energydrink
+Ingwer
+Physalis
+Mango
+Eiweißbrot
+Gelatine
+Glühwein
+Hummus
+Joghurteis
+Kumquat
+Passionsfrucht
+Süßkirschen
+Weintrauben
+Zartbitterschokolade 90%
+Trinkschokolade
+Currywurst mit Sauce
+Granatapfel
+Kaki
+Kräuterlikör (30%)
+Pfefferminze
+Walnussmehl entölt
+Tomaten, getrocknet
+Balsamico Essig
+Grießbrei
+Hagebutten
+Kartoffeln
+Kartoffeln gekocht
+Kokosraspel
+Litschi
+Weiße Bohnen
+Risotto
+Apfelmus
+Kartoffelgratin
+Kokosmehl
+Sesammehl
+Sojajoghurt
+Topinambur
+Traubensaft
+Dinkelkleie
+Maultaschen
+Ackerbohnen
+Bratkartoffeln
+Lasagne
+Mais
+Zartbitterschokolade 85%
+Kartoffelrösti
+Milchreis
+Shiitake Pilze frisch
+Döner
+Aronia Beeren
+Banane
+Eiscreme
+Kakaomilch 1,5%
+Kakaomilch 3,5%
+Likör (20% Vol.)
+Pudding gekocht
+Softeis
+Sahneies
+Schokoladeneis
+Fischstäbchen
+Sojamehl
+Chlorella
+Couscous
+Sushi
+Eiscreme
+Hamburger
+Fruchteis / Sorbet
+Gnocchi
+Kartoffelpuffer
+Reisnudeln
+Wassereis
+Spätzle
+Kroketten
+Eierlikör (20% Vol.)
+Gerstengras Pulver
+Klöße gekocht
+Süßkartoffeln
+Backpulver
+Knoblauch
+Oregano
+Windbeutel
+Käsekuchen
+Ketchup
+Zartbitterschokolade 75%
+Nudeln gekocht
+Lahmacun
+Cheeseburger
+Grissinis
+Pizza
+Pumpernickel
+Salamipizza
+Zimt
+Cashewnüsse
+Cashewmus
+Schupfnudeln
+Eierkuchen
+Falafel
+Sonnenblumenbrot
+Spaghetti
+Dill
+Dinkelbrötchen
+Milchschnitte
+Paprikapulver edelsüß
+Apfelkuchen
+Maniok
+Paprikapulver Rosenscharf
+Roggenvollkornbrot
+Vollkornbrot
+Vollkorntoastbrot
+Leinsamenbrot
+Milchpulver
+Pommes
+Reis gekocht parboiled
+Moringa Pulver
+Schwarzbrot
+Dinkelbrot
+Kidneybohnen
+Linsensuppe
+Linsen, trocken
+Croissant
+Pizzateig
+Dinkelvollkornbrot
+Berliner
+Hefeteig
+Kürbiskernbrötchen
+Hefezopf
+Mehrkornbrötchen
+Mehrkornbrot
+Müsliriegel
+Schwarze Bohnen
+Stollen
+Vollkornbrötchen
+Fladenbrot
+Kekse
+Kichererbsen
+Kuvertüre Zartbitter
+Maronen
+Milchbrötchen
+Muskat
+Studentenfutter
+Tortellini
+Zartbitterschokolade 50%
+Haferkleie
+Semmelknödel
+Roggenbrot
+Mischbrot
+Mungobohnen
+Pita
+rote Linsen, trocken
+Marmorkuchen
+Roggenmischbrot
+Blätterteig
+Nussschokolade
+Rosinenbrötchen
+Donut
+Toastbrot
+Kichererbsenmehl
+Pflaumenmus
+Kuvertüre Vollmilch
+Balsamico Creme
+Kartoffelchips
+Paniermehl
+Weißbrot
+Erdnussflips
+Germknödel
+Vollmilchschokolade
+Goji Beeren getrocknet
+Amaranth
+Haferflocken
+Konfitüre
+Pflaumen, getrocknet
+Schokokuss
+Roggenbrötchen
+Müsli
+Brötchen Weizen
+Nutella
+Brezel
+Laugenstange
+Marzipan
+Nuss Nougat Creme
+Baguette
+Datteln
+Lebkuchen
+Nudeln, Vollkorn
+Pfeffer
+Langkornreis
+Quinoa
+Schokomüsli
+Knuspermüsli
+Weizenvollkornmehl
+Löffelbisquit
+Ahornsirup
+Anis
+Nougat
+Panko
+Roggenvollkornmehl
+Vollkornknäckebrot
+Weiße Schokolade
+Berberitzen, getrocknet
+Dinkelmehl, Vollkorn
+Früchtemüsli
+Popcorn
+Roggenknäckebrot
+Weizengrieß
+Hirse
+Gerstenmehl, Vollkorn
+Maismehl
+Roggenmehl
+Kamut
+Ciabatta Brot
+Apfeldicksaft
+Nudeln, Hartweizengrieß
+Rübensaft
+Bulgur
+Obst, getrocknet
+Salzstangen
+Buchweizen
+Weizenmehl 405
+Buchweizenmehl
+Graupen
+Polenta
+Butterkekse
+Makronen
+Mie Nudeln
+Nudeln, Eierteigware
+Vollkornreis
+Zwieback
+Reis, parboiled
+Weizenknäckebrot
+Rosinen
+Agavendicksaft
+Wildreis gemischt
+Cornflakes, natur
+Honig
+Marmelade
+Basmati Reis
+Reismehl
+Kartoffelstärke
+Gummibärchen
+Kakaopulver gezuckert
+Jasminreis
+Cranberries getrocknet
+Lakritze
+Reiswaffel
+Glasnudeln
+Maisstärke
+Weizenstärke
+Camu-Camu Pulver
+Kaugummi
+Bonbons
+Erythrit
+Fruchtzucker
+Isomalt
+Kandiszucker
+Karamel
+Lactit
+Maltit
+Milchzucker
+Puderzucker
+Rohrzucker
+Sorbit
+Traubenzucker
+Vanillezucker
+Xylit
+Zucker

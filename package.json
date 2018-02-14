@@ -1,0 +1,27 @@
+{
+  "name": "firebase-utilities",
+  "version": "1.0.0",
+  "description": "The objective of this project is to create firebase utilities such as csv to json converters, importers for both Firebase models \"Firebase Realtime Database\" and \"Cloud Firestore\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jocafi/firebase-utilities.git"
+  },
+  "keywords": [
+    "firebase",
+    "utilities"
+  ],
+  "author": "Joao Araujo (jocca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jocafi/firebase-utilities/issues"
+  },
+  "homepage": "https://github.com/jocafi/firebase-utilities#readme",
+  "dependencies": {
+    "firebase": "^4.8.1",
+    "fs": "0.0.1-security"
+  }
+}
