@@ -79,7 +79,7 @@ function writeFile(targetFilename, data) {
   try {
     fs.writeFileSync(targetFilename, data, "utf8");
   } catch (error) {
-    console.error("An error occurred while writeing the file '" + targetFilename + "'. Error: " + error);
+    console.error("An error occurred while writing the file '" + targetFilename + "'. Error: " + error);
   }
 }
 
