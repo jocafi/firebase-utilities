@@ -1,4 +1,4 @@
-# firebase-utilities
+# Firebase Utilities
 The objective of this project is to create firebase utilities. It contains firebase services to execute CRUD operations, as well as, 
 executing initial data load. It considers both firebase models **_Firebase Realtime Database_** and **_Cloud Firestore_**.
 
