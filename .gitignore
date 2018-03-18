@@ -2,7 +2,7 @@
 
 # App Configuration
 .env.firebase
-.env.firebase-e2etest
+e2e/.env.firebase-e2etest
 
 # compiled output
 /dist
