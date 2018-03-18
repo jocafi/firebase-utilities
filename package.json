@@ -1,27 +1,61 @@
 {
   "name": "firebase-utilities",
   "version": "1.0.0",
-  "description": "The objective of this project is to create firebase utilities such as csv to json converters, importers for both Firebase models \"Firebase Realtime Database\" and \"Cloud Firestore\".",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "The objective of this project is to create firebase utilities. It contains Firebase Services to execute CRUD operations, as well as, executing initial data load. It considers both Firebase models \"Firebase Realtime Database\" and \"Cloud Firestore\".",
+  "author": "Joao Araujo (jocafi)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jocafi/firebase-utilities.git"
   },
-  "keywords": [
-    "firebase",
-    "utilities"
-  ],
-  "author": "Joao Araujo (jocca)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jocafi/firebase-utilities/issues"
   },
-  "homepage": "https://github.com/jocafi/firebase-utilities#readme",
+  "keywords": [
+    "firebase",
+    "utilities",
+    "service",
+    "crud",
+    "library",
+    "load",
+    "import",
+    "json loader",
+    "Realtime Database",
+    "Cloud Firestore"
+  ],
+  "scripts": {
+    "clean": "rimraf lib",
+    "clean-all": "rimraf lib && rimraf build && rimraf coverage",
+    "build": "tsc",
+    "build-test": "tsc -p ./config/tsconfig.test.json",
+    "debug": "node --nolazy --inspect-brk=9229 convert-to-json.js",
+    "test": "karma start",
+    "tslint": "tslint -c tslint.json -p tsconfig.json",
+    "tslint-fix": "tslint --fix -c tslint.json -p tsconfig.json"
+  },
   "dependencies": {
-    "firebase": "^4.8.1",
-    "fs": "0.0.1-security"
+    "@types/dotenv": "^4.0.2",
+    "@types/lodash": "^4.14.105",
+    "@types/node": "^9.4.7",
+    "dotenv": "^5.0.1",
+    "firebase": "^4.10.1",
+    "lodash": "^4.17.5",
+    "log4js": "^2.5.3",
+    "logging-service-node": "github:jocafi/logging-service-node",
+    "rxjs": "^5.5.6",
+    "tsutil": "jocafi/tsutil"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.6",
+    "jasmine": "^3.1.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-typescript": "^3.0.12",
+    "rimraf": "^2.6.2",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
   }
 }

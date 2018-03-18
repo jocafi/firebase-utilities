@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# App Configuration
+/src/.env.firebase
+
 # compiled output
 /dist
 /tmp
@@ -10,7 +13,6 @@
 
 # IDEs and editors
 /.vscode
-/.idea
 .project
 .classpath
 .c9/
@@ -18,12 +20,17 @@
 .settings/
 *.sublime-workspace
 
+# IDE - IntelliJ
+/.idea
+*.iml
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+*.code-workspace
 
 # misc
 /.sass-cache
@@ -41,6 +48,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-# App Configuration
-/src/environments/environment.base.ts
