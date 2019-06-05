@@ -5,11 +5,11 @@ import "firebase/firestore";
 import DocumentReference = firebase.firestore.DocumentReference;
 import { deepCopyObject } from "tsutil";
 import { Logger } from "log4js";
-import { Observable } from "rxjs/Observable";
 import { LoggingService } from "logging-service-node";
 import { Config } from "./types";
 import { isNil } from "lodash";
 import WriteBatch = firebase.firestore.WriteBatch;
+import { Observable } from "rxjs";
 
 export class FirebaseService {
   private log: Logger;
@@ -297,7 +297,7 @@ export class FirebaseService {
     const log = this.log;
     const fid = this.FID;
 
-    return Observable.create(function(observer: any) {
+    return new Observable(function(observer: any) {
     const objects: any = [];
      db.collection(collection)
       .get()

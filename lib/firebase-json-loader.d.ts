@@ -12,7 +12,7 @@ export declare class FirebaseJsonLoader implements FirebaseLoader {
      * @param {FirebaseService} firebaseService firebase service.
      */
     constructor(sourceFilename: string, collection: string, firebaseService: FirebaseService);
-    private validateSyntax();
+    private validateSyntax;
     /**
      * Load a json file into the firebase collection.
      *

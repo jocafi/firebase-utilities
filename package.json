@@ -36,26 +36,26 @@
     "tslint-fix": "tslint --fix -c tslint.json -p tsconfig.json"
   },
   "dependencies": {
-    "@types/dotenv": "^4.0.2",
-    "@types/lodash": "^4.14.105",
-    "@types/node": "^9.4.7",
-    "dotenv": "^5.0.1",
-    "firebase": "^4.10.1",
-    "lodash": "^4.17.5",
-    "log4js": "^2.5.3",
+    "@types/dotenv": "^6.1.1",
+    "@types/lodash": "^4.14.133",
+    "@types/node": "^12.0.4",
+    "dotenv": "^8.0.0",
+    "firebase": "^6.1.0",
+    "lodash": "^4.17.11",
+    "log4js": "^4.3.1",
     "logging-service-node": "github:jocafi/logging-service-node",
-    "rxjs": "^5.5.6",
+    "rxjs": "^6.5.2",
     "tsutil": "jocafi/tsutil"
   },
   "devDependencies": {
-    "@types/jasmine": "^2.8.6",
-    "jasmine": "^3.1.0",
-    "karma": "^2.0.0",
+    "@types/jasmine": "^3.3.13",
+    "jasmine": "^3.4.0",
+    "karma": "^4.1.0",
     "karma-chrome-launcher": "^2.2.0",
-    "karma-jasmine": "^1.1.1",
-    "karma-typescript": "^3.0.12",
-    "rimraf": "^2.6.2",
-    "ts-node": "^5.0.1",
-    "typescript": "^2.7.2"
+    "karma-jasmine": "^2.0.1",
+    "karma-typescript": "^4.1.0",
+    "rimraf": "^2.6.3",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
   }
 }

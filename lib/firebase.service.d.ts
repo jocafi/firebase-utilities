@@ -1,8 +1,8 @@
 import * as firebase from "firebase";
 import "firebase/firestore";
 import DocumentReference = firebase.firestore.DocumentReference;
-import { Observable } from "rxjs/Observable";
 import { Config } from "./types";
+import { Observable } from "rxjs";
 export declare class FirebaseService {
     private log;
     private initialized;
@@ -51,7 +51,7 @@ export declare class FirebaseService {
      * @returns {Promise<void>} Promise.
      */
     update(collection: string, classInstance: any, mergeData?: boolean): Promise<void>;
-    private validateBeforeUpdate(object);
+    private validateBeforeUpdate;
     /**
      * Batch processing for new or existing objects. The method checks for an existing auto-generated ID and execute an
      * update, otherwise it executes an insert into the collection.
@@ -71,7 +71,7 @@ export declare class FirebaseService {
      * @returns {Promise<DocumentReference>[]} list of Promises.
      */
     batch(collection: string, objects: any[], mergeData?: boolean, stopOnError?: boolean): Promise<void>[];
-    private addOrUpdateToBatch(batch, collection, classInstance, mergeData?);
+    private addOrUpdateToBatch;
     /**
      * Add or update a document of the collection.
      *
